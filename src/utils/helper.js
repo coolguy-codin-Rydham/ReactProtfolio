@@ -261,20 +261,17 @@ export const ProjectsData = [
 
 
 export const ServiceData = [
+  
   {
-    count:"1M+",
-    text:"Happy Students",
-  },
-  {
-    count:"50+",
+    count:"10+",
     text:"Happy Customers",
   },
   {
-    count:"50+",
-    text:"Full-Stack Projects",
+    count:"10+",
+    text:"Front-End Projects",
   },
   {
-    count:"100+",
+    count:"10+",
     text:"Public Projects",
   },
   
