@@ -7,7 +7,7 @@ import HomeSocialLinks from "../components/HomeSocialLinks.jsx";
 const Home = () => {
   return (
     <section
-      id="home "
+      id="home"
       className="relative flex flex-col items-center justify-center gap-12"
     >
       <div className="grid w-full grid-cols-1 gap-4 lg:grid-cols-2 ">
